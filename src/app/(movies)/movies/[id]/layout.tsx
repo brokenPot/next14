@@ -13,7 +13,6 @@ export default function  Layout({
     return (
         <div>
             {children}
-            영화
         </div>
     );
 }
